@@ -1,0 +1,37 @@
+.top 
+{
+	background-color:#40A5DC;
+}
+.topbot
+{
+	background-color: #A3F6F0;
+}
+
+.right
+{
+	background-color: #898D8D;
+	padding: 10px;
+	
+}
+
+.left
+{
+	background-color: #A7E2DE;
+	padding: 10px;
+
+}
+
+.break 
+{
+	height:3px;
+}
+.end
+{
+	height:50px;
+	background-color:#40A5DC
+}
+ul li
+{
+	list-style: none;
+	display: inline-block;
+}
